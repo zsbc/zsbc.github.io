@@ -71,7 +71,7 @@
 /*   ---- JAVASCRIPTS.HTML ---- */
 #body-javascript {
   width: 100%;
-  height: 100vh;
+  height: 150vh;
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/myBackground.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -125,4 +125,7 @@ margin: 25px;
   }
   .information img {
     margin-top: 25px;
+  }
+  #atag {
+    color:red;
   }
