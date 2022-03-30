@@ -71,7 +71,7 @@
 /*   ---- JAVASCRIPTS.HTML ---- */
 #body-javascript {
   width: 100%;
-  height: 300vh;
+  height: 350vh;
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/myBackground.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -100,7 +100,7 @@ margin: 25px;
 /*   ---- ABOUT.HTML ---- */
 #body-about {
   width: 100%;
-  height: 110vh;
+  height: 130vh;
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/myBackground.jpg);
   background-size: cover;
   background-repeat: no-repeat;
