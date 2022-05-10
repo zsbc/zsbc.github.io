@@ -93,6 +93,13 @@ font-size: 20px;
 color:white;
 margin: 25px;
 }
+.program a {
+  text-decoration: none;
+  color: lime;
+}
+.program a:hover{
+  color: green;
+}
 .program:hover {
   font-size: 21px;
   color:orange
