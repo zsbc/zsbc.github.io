@@ -133,7 +133,7 @@ margin: 25px;
   /*   ---- FINAL-PROJECT.HTML ---- */
   #body-final-project {
     width: 100%;
-    height: 150vh;
+    height: 200vh;
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/myBackground.jpg);
     background-size: cover;
     background-repeat: no-repeat;
